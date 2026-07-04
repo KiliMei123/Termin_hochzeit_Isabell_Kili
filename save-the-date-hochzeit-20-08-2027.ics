@@ -22,12 +22,12 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:cc247445-ca83-4b8b-b6fa-5bb3e2c96e01@chatgpt-save-the-date
-DTSTAMP:20260704T111929Z
-DTSTART;TZID=Europe/Berlin:20270820T150000
+UID:0bdb1dfb-f396-4d34-a935-dacb1ce99574@chatgpt-save-the-date
+DTSTAMP:20260704T165139Z
+DTSTART;TZID=Europe/Berlin:20270820T140000
 DTEND;TZID=Europe/Berlin:20270822T150000
-SUMMARY:Save the Date: Hochzeit
+SUMMARY:Hochzeit Isabell und Kilian <3
 LOCATION:Schloss Beesenstedt
-DESCRIPTION:Wir feiern unsere Hochzeit im Schloss Beesenstedt. Weitere Infos folgen.
+DESCRIPTION:Wir möchten unsere Hochzeit mit euch auf Schloss Beesenstedt feiern und freuen uns schon riesig!\nLG Isabell und Kilian
 END:VEVENT
 END:VCALENDAR
